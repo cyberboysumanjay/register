@@ -1,1 +1,14 @@
 
+{
+  "description": "My Personal Website.",
+  "repo": "https://github.com/ADVALAKI/advalaki.github.io",
+  "owner": {
+    "username": "advalaki",
+    "email": "",
+    "twitter": "advalaki",
+
+  },
+  "record": {
+    "CNAME": "advalaki.github.io"
+  }
+}
